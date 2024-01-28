@@ -16,7 +16,7 @@ Have a look at the [Demo page](https://ciprianciurea.github.io/chartjs-plugin-do
 
 Install through npm:
 ```
-npm install --save chartjs-plugin-doughnutlabel
+npm install --save @scottalan/chartjs-plugin-doughnutlabel
 ```
 
 ## Usage 
